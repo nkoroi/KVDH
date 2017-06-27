@@ -32,7 +32,7 @@ INSTALLED_APPS = [
     'accounts',
     'dashboard',
     'vdh',
-    'wagtail',
+
     'wagtail.wagtailforms',
     'wagtail.wagtailredirects',
     'wagtail.wagtailembeds',
